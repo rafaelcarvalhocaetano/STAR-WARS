@@ -1,0 +1,12 @@
+.ng-invalid.ng-touched:not(form){
+  border: 1px solid rgb(238, 66, 66);
+}
+
+.formulario, .google{
+  margin-top: 5px;
+}
+.face{
+  background-color: rgba(42, 42, 177, 0.973);
+  color: #FFFFFF;
+  margin-top: 5px;
+}
